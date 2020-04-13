@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Starting DewHeart
-description: Taking the first steps in making my game about Jasper, DewHeart.
-summary: Taking the first steps in making my game about Jasper, DewHeart.
-tags: [game, development, DewHeart, Jasper]
 ---
 
 Well... it looks like I've attempted a challenge greater than I thought I would
