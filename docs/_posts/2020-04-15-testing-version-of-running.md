@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Testing version of running Jasper
+title: Testing version of running Juniper
 ---
 
-Here is an early testing mockup of the animated Jasper running through an earlier
+Here is an early testing mockup of the animated Juniper running through an earlier
 project. The controls are just the arrow keys left and right for running, and up
 to jump.
 
